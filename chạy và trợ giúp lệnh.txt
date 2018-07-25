@@ -1,0 +1,30 @@
+Chạy lệnh và trợ giúp lệnh
+
+cú pháp:
+ command [options] [arguments]
+ Lệnh		tùy chọn	thông số của lệnh (file, dữ liệu)
+ 
+ Lưu ý:
+	chạy lệnh ở dạng đơn giản nhất 
+	Nhớ các từ viết tắt của lệnh (vd: id là identity)
+	
+useradd (khi gõ ko thì ko thể thực thi được
+	
+Trợ giúp lệnh:
+1 lệnh trên linux rất là phức tạp.
+
+Có 2 cách::
+ lệnh man (manual) nó giống như khi chúng ta mua tivi có quyển hướng dẫn kèm theo
+  google
+ 
+cách sử dụng:
+mũi tên xuống và lên: để di chuyển lên xuống
+PgUP và Pgdown: lên 1 trang và xuống 1 trang
+Shift+g: đi đến cuối trang
+g: đi lên đầu trang
+muốn tìm kiếm từ khóa: 
+sử dụng phím / và gõ từ khóa cần kiếm
+/ user sẽ tìm tất cả khóa user
+để đi đến từng từ khóa một gõ phím n
+
+ 
