@@ -1,10 +1,10 @@
 # Git và Github cho sysadmin
 Copy https://github.com/hocchudong/git-github-for-sysadmin
+
+
 Mục lục
 I. Mở đầu
-
 II. Ngôn ngữ Markdown
-
 1. Thẻ tiêu đề
 2. Chèn link, chèn ảnh
 3. Ký tự in đậm, in nghiêng
@@ -13,15 +13,11 @@ II. Ngôn ngữ Markdown
 6. Tạo bảng
 Mẹo
 III. Các thao tác với git và github
-
 0. Repo
-
 1. Cài đặt
-
 1.1. Linux
 1.2. Windows
 2. Thao tác với Repo
-
 2.1. Trên Linux
 2.1.1. Tạo mới
 2.1.2. Clone
