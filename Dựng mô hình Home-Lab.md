@@ -8,7 +8,7 @@
 Trong mô hình Home-Lab này sử dụng VM8 (NAT), (các bạn có thể sử dụng VM0 cũng được). 
 Tuy nhiên lưu ý là tất cả lớp đều bật chế độ tự động cấp DHCP. Để tắt dịch vụ DHCP của VM ta làm như sau: 
 Trên thẻ tab của vmware vào phần Edit→Vitrual Network Editor → Change Setting và bỏ dấu tích phần DHCP setting và bỏ tích trong phần Use local DHCP to distribute IP to VMwaresD
-<img =src:https://i.imgur.com/inMO3V9.png>
+<img src=https://i.imgur.com/inMO3V9.png>
 
 ## 2. Thông tin máy vật lý:
 - Tạo tên máy ảo theo thông tin sau:
