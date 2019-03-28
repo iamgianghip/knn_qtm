@@ -15,7 +15,7 @@ useradd (khi gõ ko thì ko thể thực thi được
 Cách 1: Sử dụng lệnh man (manual) nó giống như khi chúng ta mua tivi có quyển hướng dẫn kèm theo
  Ví dụ: man useradd
  
-img src=https://prntscr.com/n42sea
+[Github](https://github.com)<img src=https://prntscr.com/n42sea>
 cách sử dụng:
 mũi tên xuống và lên: để di chuyển lên xuống
 PgUP và Pgdown: lên 1 trang và xuống 1 trang
