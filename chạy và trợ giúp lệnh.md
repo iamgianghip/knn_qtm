@@ -1,8 +1,9 @@
-#Chạy lệnh và trợ giúp lệnh
+##Chạy lệnh và trợ giúp lệnh
 
-##cú pháp:
-## command      [options]       [arguments]
-## Lệnh		tùy chọn	thông số của lệnh (file, dữ liệu)
+###cú pháp:
+
+### command      [options]       [arguments]
+### Lệnh		tùy chọn	thông số của lệnh (file, dữ liệu)
  
 Lưu ý:  Chạy lệnh ở dạng đơn giản nhất 
 	Nhớ các từ viết tắt của lệnh (vd: id là identity)
