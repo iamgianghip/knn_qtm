@@ -1,6 +1,6 @@
-##Chạy lệnh và trợ giúp lệnh
+## Chạy lệnh và trợ giúp lệnh
 
-###cú pháp:
+### cú pháp:
 
 ### command      [options]       [arguments]
 ### Lệnh		tùy chọn	thông số của lệnh (file, dữ liệu)
