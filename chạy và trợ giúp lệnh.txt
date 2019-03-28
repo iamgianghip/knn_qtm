@@ -1,22 +1,21 @@
-Chạy lệnh và trợ giúp lệnh
+#Chạy lệnh và trợ giúp lệnh
 
-cú pháp:
- command [options] [arguments]
- Lệnh		tùy chọn	thông số của lệnh (file, dữ liệu)
+##cú pháp:
+## command      [options]       [arguments]
+## Lệnh		tùy chọn	thông số của lệnh (file, dữ liệu)
  
- Lưu ý:
-	chạy lệnh ở dạng đơn giản nhất 
+Lưu ý:  Chạy lệnh ở dạng đơn giản nhất 
 	Nhớ các từ viết tắt của lệnh (vd: id là identity)
 	
 useradd (khi gõ ko thì ko thể thực thi được
 	
-Trợ giúp lệnh:
-1 lệnh trên linux rất là phức tạp.
+##Trợ giúp lệnh:
+1 lệnh trên linux rất là phức tạp nên có một cách để giúp chúng ta giải quyết việc đó đó là dùng trợ giúp lệnh hoặc là google.
 
-Có 2 cách::
- lệnh man (manual) nó giống như khi chúng ta mua tivi có quyển hướng dẫn kèm theo
-  google
+Cách 1: Sử dụng lệnh man (manual) nó giống như khi chúng ta mua tivi có quyển hướng dẫn kèm theo
+ Ví dụ: man useradd
  
+ <img src=https://prntscr.com/n42sea>
 cách sử dụng:
 mũi tên xuống và lên: để di chuyển lên xuống
 PgUP và Pgdown: lên 1 trang và xuống 1 trang
